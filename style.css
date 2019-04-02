@@ -7,6 +7,13 @@ body{
   max-width: 100%;
   max-height:100%;
 }
+header {
+  font-size: 4em;
+  position: absolute;
+  top: 6%;
+  left: 30%;
+  color: orange;
+}
 .app {
   height: 100vh;
   display: flex;
@@ -72,7 +79,7 @@ video {
 
 .time-display{
   position: absolute;
-  bottom:10%;
+  bottom:14%;
   color: white;
   font-size: 3em;
   max-width: 100%;
